@@ -1,3 +1,5 @@
+theme: jekyll-theme-time-machine
+
 # Ivan Monagan   
 
 ### Ph.D. Student - Columbia University
