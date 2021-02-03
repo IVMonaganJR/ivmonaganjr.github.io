@@ -1,40 +1,15 @@
-#Ivan Monagan   
+# Ivan Monagan   
 
-##Ph.D. Student - Columbia University
+### Ph.D. Student - Columbia University
 ##Research Fellow - American Museum of Natural History
-### _Department of Ecology, Evolution, and Environmental Biology_
+#### _Department of Ecology, Evolution, and Environmental Biology_
 
 ![Ivan](https://i1.wp.com/www.anoleannals.org/wp-content/uploads/2017/10/P7133009.jpg?ssl=1)
 
 
-### Markdown
+# About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a third-year collaborative Ph.D. student with Columbia University and the American Museum of Natural History, where I am co-advised by Shahid Naeem and Christopher Raxworthy. I study the mechanisms of population extinction, and the eco-evolutionary processes driving squamate community structure in insular systems and anthropogenic landscapes in Madagascar. My research integrates phylogeographic, population genetic, and functional trait data to uncover historical and contemporary processes that shape species diversity. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IVMonaganJR/ivmonaganjr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# CV
