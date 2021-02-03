@@ -1,7 +1,7 @@
 # Ivan Monagan   
 
 ### Ph.D. Student - Columbia University
-##Research Fellow - American Museum of Natural History
+### Research Fellow - American Museum of Natural History
 #### _Department of Ecology, Evolution, and Environmental Biology_
 
 ![Ivan](https://i1.wp.com/www.anoleannals.org/wp-content/uploads/2017/10/P7133009.jpg?ssl=1)
