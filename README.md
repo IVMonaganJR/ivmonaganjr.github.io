@@ -1,6 +1,10 @@
-#Ivan Monagan 
+#Ivan Monagan   
+
 ##Ph.D. Student - Columbia University
-### _Department of Ecology, Evolution, and Environmental Biology
+##Research Fellow - American Museum of Natural History
+### _Department of Ecology, Evolution, and Environmental Biology_
+
+![Ivan](https://i1.wp.com/www.anoleannals.org/wp-content/uploads/2017/10/P7133009.jpg?ssl=1)
 
 
 ### Markdown
@@ -22,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
